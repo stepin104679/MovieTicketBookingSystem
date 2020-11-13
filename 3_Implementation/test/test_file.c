@@ -80,7 +80,7 @@ void test_booking_unavailable_seats(void)
 void test_booking_available_seats(void)
 {
     int a[2]={6,7};
-    TEST_ASSERT_EQUAL(1,book_ticket("Avengers",2,a));
+    TEST_ASSERT_EQUAL(1,book_ticket("Superman",2,a));
 }
 void test_view_all_transactions(void)
 {
