@@ -4,7 +4,7 @@
 #include "insert_new.h"
 #include "book.h"
 #include "user.h"
-#include "view_all_movies.h"
+#include "View_all_movies.h"
 #include "find.h"
 #include "transaction.h"
 #include "unity_internals.h"
