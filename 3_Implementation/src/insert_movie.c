@@ -16,7 +16,7 @@ int insert_new_movie(char * ch,char * dt,int pr)
 	}
 	else
 	{
-		fprintf(fp,"%s %s %d \n",ch,dt,pr);
+		fprintf(fp," %s %s %d \n",ch,dt,pr);
 		printf("Recorded Successfully\n");
 		fclose(fp);
 		return 1;
