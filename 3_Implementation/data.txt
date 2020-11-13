@@ -4,5 +4,6 @@ Looper 04-Jun-2020 300
 Breaking 26-11-2020 300 
 Dogs 2-2-2000 150 
 Narnia 20-10-2020 300 
-Blade 05-10-2015 350 
+Blade 05-10-2015 350
 
+Superman 26-Nov-2020 300 
