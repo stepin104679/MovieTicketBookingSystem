@@ -1,4 +1,4 @@
-name: valgrind
+name: Valgrind
 
 on: [push]
   
