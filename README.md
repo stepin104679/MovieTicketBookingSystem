@@ -1,6 +1,4 @@
-# MovieTicketBookingSystem  
-# SFID : 104679
-# Name : Sriram R M
+# MovieTicketBookingSystem  # SFID : 104679
 To create movie ticket booking system using C
 |Build|
 |:--:|
