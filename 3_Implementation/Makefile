@@ -57,6 +57,7 @@ doc:
 # Build and run the unit tests
 test:$(TEST_SRC) $(BUILD)
 	gcc $(TEST_SRC) $(INC) -o $(TEST_OUTPUT)
+	./$(TEST_OUTPUT)
 
 # Call `make run` to run the application
 runtest:$(TEST_NAME)
